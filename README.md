@@ -1,1 +1,1 @@
-# Estrutura-de-Site-para-uma-cole-ao-NFT
+# Estrutura-de-Site-para-uma-coleçao-NFT
