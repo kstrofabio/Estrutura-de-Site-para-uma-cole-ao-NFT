@@ -1,0 +1,46 @@
+* { 
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+header{
+    padding: 2rem;
+    box-sizing: 0 5px 10px blue ;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: white;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+
+nav ul a{
+    margin: 2rem;
+    font-weight: bold;
+
+}
+
+.nav-item {
+   color: gold;
+   text-decoration: none;
+
+}
+
+.nav-item:hover{
+    color: darkgoldenrod;
+}
+
+main {
+    padding: 1rem;
+}
